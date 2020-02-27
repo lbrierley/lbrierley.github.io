@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+**/arxiv_cov_preprints_files
+**/biorxiv_cov_preprints_files
